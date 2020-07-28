@@ -9,7 +9,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     httparty (0.16.2)
       multi_xml (>= 0.5.2)
-    json (2.1.0)
+    json (2.3.0)
     koala (3.0.0)
       addressable
       faraday
